@@ -40,6 +40,8 @@ During the process, an “Access Denied” error was encountered when attempting
 
 **Conclusion**
 This task provided practical experience in working with AWS S3, one of the most widely used cloud storage solutions. It involved creating a new bucket (my-aws-viji), uploading files, adjusting security permissions, and testing public access. Understanding how to manage access control in S3 is crucial for safely sharing or storing files in the cloud. This setup is now ready for further use in application development, file hosting, or integration with other AWS services.
+
+
 **OUTPUT**
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/bc829472-e728-4e49-9a9e-ad1206312e8c" />
