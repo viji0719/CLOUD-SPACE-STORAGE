@@ -1,16 +1,16 @@
 # CLOUD-SPACE-STORAGE
 
-**COMPANY**:  CODETECH IT SOLUTIONS
+**COMPANY**   :  CODETECH IT SOLUTIONS
 
-**NAME**:PRAGATHI P
+**NAME**      : PRAGATHI P
 
-**INTERN ID**:CT04DG1065
+**INTERN ID** : CT04DG1065
 
-**DOMAIN**:Cloud Computing
+**DOMAIN**    :Cloud Computing
 
-**DURATION**: 4 WEEKS
+**DURATION**  : 4 WEEKS
 
-**MENTOR**:Neela Santhosh Kumar
+**MENTOR**    :Neela Santhosh Kumar
 
 **Task Description: Creating and Configuring Cloud Storage on AWS S3**
 
